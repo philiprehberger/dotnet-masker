@@ -111,6 +111,12 @@ var safe = ObjectMasker.MaskObject(user);
 | `RevealLength` | `4` | Number of characters to leave visible |
 | `RevealEnd` | `true` | Reveal at end (`true`) or start (`false`) |
 
+## Development
+
+```bash
+dotnet build src/Philiprehberger.Masker.csproj --configuration Release
+```
+
 ## License
 
 MIT
