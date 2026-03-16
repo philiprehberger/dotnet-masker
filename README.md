@@ -1,5 +1,9 @@
 # Philiprehberger.Masker
 
+[![CI](https://github.com/philiprehberger/dotnet-masker/actions/workflows/ci.yml/badge.svg)](https://github.com/philiprehberger/dotnet-masker/actions/workflows/ci.yml)
+[![NuGet](https://img.shields.io/nuget/v/Philiprehberger.Masker.svg)](https://www.nuget.org/packages/Philiprehberger.Masker)
+[![License](https://img.shields.io/github/license/philiprehberger/dotnet-masker)](LICENSE)
+
 Mask and redact sensitive data in strings and objects for safe logging.
 
 ## Install
