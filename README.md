@@ -6,7 +6,7 @@
 
 Mask and redact sensitive data in strings and objects for safe logging.
 
-## Install
+## Installation
 
 ```bash
 dotnet add package Philiprehberger.Masker
