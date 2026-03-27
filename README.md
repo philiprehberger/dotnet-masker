@@ -3,6 +3,7 @@
 [![CI](https://github.com/philiprehberger/dotnet-masker/actions/workflows/ci.yml/badge.svg)](https://github.com/philiprehberger/dotnet-masker/actions/workflows/ci.yml)
 [![NuGet](https://img.shields.io/nuget/v/Philiprehberger.Masker.svg)](https://www.nuget.org/packages/Philiprehberger.Masker)
 [![License](https://img.shields.io/github/license/philiprehberger/dotnet-masker)](LICENSE)
+[![Sponsor](https://img.shields.io/badge/sponsor-GitHub%20Sponsors-ec6cb9)](https://github.com/sponsors/philiprehberger)
 
 Mask and redact sensitive data in strings and objects for safe logging.
 
@@ -119,4 +120,4 @@ dotnet build src/Philiprehberger.Masker.csproj --configuration Release
 
 ## License
 
-MIT
+[MIT](LICENSE)
